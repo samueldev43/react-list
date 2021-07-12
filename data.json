@@ -1,0 +1,53 @@
+{
+  "registeredStudents": [
+    {
+      "studentName": "João",
+      "surname": "Silva",
+      "mumsName": "Matine",
+      "age": 12,
+      "id": 1
+    },
+    {
+      "studentName": "Vitoria",
+      "surname": "Joana",
+      "mumsName": "Amelia",
+      "age": 10,
+      "id": 2
+    },
+    {
+      "studentName": "Matheus",
+      "surname": "Abreu",
+      "mumsName": "Ani",
+      "age": 11,
+      "id": 3
+    },
+    {
+      "studentName": "Joanna",
+      "surname": "Silvana",
+      "mumsName": "Silvana",
+      "age": 14,
+      "id": 4
+    },
+    {
+      "studentName": "Amélia",
+      "surname": "Silvi",
+      "mumsName": "Sara",
+      "age": 14,
+      "id": 5
+    },
+    {
+      "studentName": "Lucas",
+      "surname": "Martins",
+      "mumsName": "Ana",
+      "age": 11,
+      "id": 6
+    },
+    {
+      "studentName": "Amélia",
+      "surname": "Paula",
+      "mumsName": "Silva",
+      "age": 13,
+      "id": 7
+    }
+  ]
+}
